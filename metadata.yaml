@@ -1,0 +1,48 @@
+_repo: De-l-Amour-Edition-revue-et-corrigee-et-precedee-d-une-etude-sur-les-oeuvres-de-Stendhal-par-__60882
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stendhal
+    aliases:
+    - Marie-Henri Beyle
+    - Beyle, Marie Henri
+    birthdate: 1783
+    deathdate: 1842
+    gutenberg_agent_id: '418'
+    url: http://www.gutenberg.org/2009/agents/418
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Stendhal
+    - https://en.wikipedia.org/wiki/Stendhal
+  editor:
+    agent_name: Sainte-Beuve, Charles Augustin
+    aliases:
+    - Sainte-Beuve, Charles-Augustin
+    - Sainte-Beuve, C.-A. (Charles Augustin)
+    - Delorme, Joseph
+    birthdate: 1804
+    deathdate: 1869
+    gutenberg_agent_id: '5145'
+    url: http://www.gutenberg.org/2009/agents/5145
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Charles-Augustin_Sainte-Beuve
+    - https://en.wikipedia.org/wiki/Charles_Augustin_Sainte-Beuve
+description: ''
+gutenberg_bookshelf:
+- FR Philosophie, Religion et Morale
+- FR Nouveautés
+gutenberg_issued: '2019-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60882'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Love'
+- !lcc 'HQ'
+- GITenberg
+title: "De l'Amour\r\nÉdition revue et corrigée et précédée d'une étude sur les oeuvres\
+  \ de Stendhal par Sainte-Beuve"
+url: http://www.gutenberg.org/ebooks/60882
